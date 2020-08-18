@@ -28,6 +28,10 @@
   color: #fff;
 }
 
-
+/*,modificando o form de contato*/
+.message{
+  color: green;
+  margin: 50px;
+}
 
 /*Estilos da pagina icontato.html*/
