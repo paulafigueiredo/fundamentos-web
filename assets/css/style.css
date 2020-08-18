@@ -1,0 +1,33 @@
+/*Estilos da pagina index.html*/
+.html{
+  background-color: #eeee;
+}
+.center{
+  text-align: center;
+}
+.container{
+  display: flex;
+  flex-flow: row wrap;
+  justify-content: center;
+  
+}
+.menu {
+  background-color: brown;
+}
+.menu ul {
+  display: flex;
+  list-style: none;
+  
+}
+.menu li {
+  
+  padding: 10px;
+} 
+.menu li a {
+  text-decoration: none;
+  color: #fff;
+}
+
+
+
+/*Estilos da pagina icontato.html*/
